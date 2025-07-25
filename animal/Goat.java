@@ -20,7 +20,7 @@ public class Goat extends Animal {
   public int getmilkPerDay() {
     return this.milkPerDay;
   }
-   public String goatName() {
+   public String getgoatName() {
     return this.goatName;
   }
 
